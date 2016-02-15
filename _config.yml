@@ -1,13 +1,40 @@
 # Site settings
-title: Eat, code, feed (my babies), sleep and repeat
-email: hiimivantang@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Ivan Tang has a passion for coding. He loves technology and babies. He has a wonderful wife, a son and a baby coming soon.
-disqusid: hiimivantang
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: hiimivantang
-github_username:  hiimivantang
+title: Eat, code, feed (my babies) and repeat
+description: >
+  Ivan Tang has a passion for coding. He loves technology, his wife and babies.
+url: 'http://hiimivantang.github.io/blog'
+baseurl: '/blog/'
+# google_analytics: 'UA-XXXXXX-X'
+disqus_shortname: 'hiimivantang'
+
+author:
+  name: 'Ivan Tang'
+  email: hiimivantang@gmail.com
+  twitter_username: hiimivantang
+  #facebook_username: ivantang.wx
+  github_username:  hiimivantang
+  linkedin_username:  hiimivantang
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
 
 # Build settings
+destination: _site
+paginate: 10
+#permalink: /:year/:title/
 markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']

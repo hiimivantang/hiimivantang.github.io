@@ -3,6 +3,7 @@ title: Eat, code, feed (my babies), sleep and repeat
 email: hiimivantang@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Ivan Tang has a passion for coding. He loves technology and babies. He has a wonderful wife, a son and a baby coming soon.
+disqusid: hiimivantang
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: hiimivantang

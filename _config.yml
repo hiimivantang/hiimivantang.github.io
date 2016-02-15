@@ -4,7 +4,7 @@ description: >
   Ivan Tang has a passion for coding. He loves technology, his wife and babies.
 url: 'http://hiimivantang.github.io'
 baseurl: '/'
-# google_analytics: 'UA-XXXXXX-X'
+google_analytics: 'UA-73797939-1'
 disqus_shortname: 'hiimivantang'
 
 author:

@@ -4,10 +4,10 @@
     <title>Eat, code, feed (my babies) and repeat</title>
     <description>Ivan Tang has a passion for coding. He loves technology, his wife and babies.
 </description>
-    <link>http://hiimivantang.github.io/blog/blog//</link>
-    <atom:link href="http://hiimivantang.github.io/blog/blog//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 15 Feb 2016 15:27:39 +0800</pubDate>
-    <lastBuildDate>Mon, 15 Feb 2016 15:27:39 +0800</lastBuildDate>
+    <link>http://hiimivantang.github.io//</link>
+    <atom:link href="http://hiimivantang.github.io//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 15 Feb 2016 15:35:34 +0800</pubDate>
+    <lastBuildDate>Mon, 15 Feb 2016 15:35:34 +0800</lastBuildDate>
     <generator>Jekyll v3.0.3</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Wed, 27 Jan 2016 00:26:02 +0800</pubDate>
-        <link>http://hiimivantang.github.io/blog/blog//general/2016/01/27/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://hiimivantang.github.io/blog/blog//general/2016/01/27/welcome-to-jekyll.html</guid>
+        <link>http://hiimivantang.github.io//general/2016/01/27/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://hiimivantang.github.io//general/2016/01/27/welcome-to-jekyll.html</guid>
         
         
         <category>general</category>
@@ -46,8 +46,8 @@
 
 </description>
         <pubDate>Sun, 10 Jan 2016 10:03:00 +0800</pubDate>
-        <link>http://hiimivantang.github.io/blog/blog//general/2016/01/10/purpose-of-this-blog.html</link>
-        <guid isPermaLink="true">http://hiimivantang.github.io/blog/blog//general/2016/01/10/purpose-of-this-blog.html</guid>
+        <link>http://hiimivantang.github.io//general/2016/01/10/purpose-of-this-blog.html</link>
+        <guid isPermaLink="true">http://hiimivantang.github.io//general/2016/01/10/purpose-of-this-blog.html</guid>
         
         
         <category>general</category>

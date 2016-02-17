@@ -2,6 +2,7 @@
 layout: post
 title:  "Purpose of the blog"
 date:   2016-01-10 10:03
+tags:   #firstpost #general
 ---
 
 I have been thinking of starting a technical blog for a long time now but my procrastination always got the better of me. However, I cannot wait to start blogging after I stumbled upon [Jekyll][jekyll] recently. It just seem so technically fun to be using Jekyll for blogging. So here I am with my very first post written in [Markdown][markdown].

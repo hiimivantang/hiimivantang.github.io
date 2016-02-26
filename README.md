@@ -5,4 +5,4 @@ This is my personal blog on programming, data science and other related technolo
 
 Please cite my blog if you are taking references from my blog posts. :)
 
-
+[1]: http://jekyllthemes.org/themes/jekyll-uno/

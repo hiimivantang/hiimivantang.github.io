@@ -6,12 +6,12 @@ tags: spark apachespark pyspark cloudera hadoop ipython jupyter notebook
 ---
 
 
-This blog post is a guide in setting up your Jupyter notebook environment to work with PySpark. 
+This blog post is a guide on setting up your Jupyter notebook environment to work with PySpark. 
 
 Prerequisites:
 
-* Jupyter notebook
-* Apache Spark cluster
+- Jupyter notebook
+- Apache Spark cluster
 
 
 ```bash

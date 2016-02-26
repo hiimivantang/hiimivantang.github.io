@@ -1,19 +1,35 @@
 ---
 layout: post
 title: "How-to: Use Jupyter notebook with Apache Spark"
-tags: spark apachespark pyspark cloudera hadoop ipython jupyter notebook
-
+tags: ipython jupyter pyspark spark
 ---
 
+Recently, I had a short demo to showcase the capabilities of the Hadoop / Spark mini cluster that I set up. It was a simulation of flipping 1 billion coins and finding out how many of them were heads. It won't be nice to show my colleagues a terminal running the spark job. I thought it will be nice to be running the spark job on a IPython notebook and that's how my quest of integrating PySpark and IPython started. Jupyter is a spin-off project from IPython. IPython notebooks only supported Python and now with Jupyter, you have a choice of [many different kernels][1] which can run a different programming language each.
 
-This blog post is a guide on setting up your Jupyter notebook environment to work with PySpark. 
+This is a guide on setting up your Jupyter notebook, that is running a IPython kernel, to work with PySpark.
 
-Prerequisites:
+
+### Disclaimer: 
+
+I have tested this only on Ubuntu precise (12.04). Please don't blame me if this guide is not working for your OS. =p 
+
+
+### Pseudo-How-to:
+
+1. create a IPython profile named "pyspark"
+2. create a customized Jupyter notebook kernel spec, which specifies to use "pyspark" profile.
+3. create a Python script that sets important environment variables when pyspark profile is being selected.
+4. Run IPython notebook and enjoy :)
+
+
+
+### Prerequisites:
 
 - Jupyter notebook
 - Apache Spark cluster
 
 
+### How-to:
 
 Make sure you have the above mentioned prerequisites installed before running the following in bash:
 
@@ -93,3 +109,8 @@ ipython notebook
 
 
 PS: maybe I will add more explanations to the instructions above, if there is a need to.
+
+
+
+
+[1]: https://github.com/ipython/ipython/wiki/IPython-kernels-for-other-languages

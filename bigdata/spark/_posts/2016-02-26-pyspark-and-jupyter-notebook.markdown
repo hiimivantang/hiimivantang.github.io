@@ -14,6 +14,9 @@ Prerequisites:
 - Apache Spark cluster
 
 
+
+Make sure you have the above mentioned prerequisites installed before running the following in bash:
+
 ```bash
 ipython profile create pyspark
 

@@ -4,7 +4,14 @@ title: "How-to: Use Jupyter notebook with Apache Spark"
 tags: ipython jupyter pyspark spark
 ---
 
-Recently, I had a short demo to showcase the capabilities of the Hadoop / Spark mini cluster that I set up. It was a simulation of flipping 1 billion coins and finding out how many of them were heads. It won't be nice to show my colleagues a terminal running the spark job. I thought it will be nice to be running the spark job on a IPython notebook and that's how my quest of integrating PySpark and IPython started. Jupyter is a spin-off project from IPython. IPython notebooks only supported Python and now with Jupyter, you have a choice of [many different kernels][1] which can run a different programming language each.
+### Background
+
+Recently, I had a short demo to showcase the capabilities of the Hadoop / Spark mini cluster that I set up. It was a simulation of flipping 1 billion coins and finding out how many of them were heads. It won't be nice to show my colleagues a terminal running the spark job. It is more apt to be running the spark job on a IPython notebook, with sufficient commentaries, and that's how my quest of integrating PySpark into a Jupyter notebook got started. 
+
+Jupyter is a spin-off project from IPython. IPython notebooks only supported Python and now with Jupyter, you have a choice of [many different kernels][1] which can run a different programming language each.
+
+
+### tl;dr
 
 This is a guide on setting up your Jupyter notebook, that is running a IPython kernel, to work with PySpark.
 

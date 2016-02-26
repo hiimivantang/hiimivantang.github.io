@@ -73,3 +73,11 @@ os.environ['JAVA_HOME']='/usr/lib/jvm/java-7-oracle-cloudera'
 execfile(os.path.join(spark_home, 'python/pyspark/shell.py'))
 ```
 
+
+
+
+Enjoy using PySpark with Jupyter notebook:
+
+```bash
+ipython notebook
+```

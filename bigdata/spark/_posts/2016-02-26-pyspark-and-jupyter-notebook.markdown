@@ -13,6 +13,11 @@ This is a guide on setting up your Jupyter notebook, that is running a IPython k
 
 I have tested this only on Ubuntu precise (12.04). Please don't blame me if this guide is not working for your OS. =p 
 
+### Prerequisites:
+
+- Jupyter notebook
+- Apache Spark cluster
+
 
 ### Pseudo-How-to:
 
@@ -20,13 +25,6 @@ I have tested this only on Ubuntu precise (12.04). Please don't blame me if this
 2. create a customized Jupyter notebook kernel spec, which specifies to use "pyspark" profile.
 3. create a Python script that sets important environment variables when pyspark profile is being selected.
 4. Run IPython notebook and enjoy :)
-
-
-
-### Prerequisites:
-
-- Jupyter notebook
-- Apache Spark cluster
 
 
 ### How-to:

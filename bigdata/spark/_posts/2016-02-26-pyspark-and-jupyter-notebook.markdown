@@ -5,9 +5,10 @@ title: "How-to: Use Jupyter notebook with Apache Spark"
 
 
 This blog post is a guide in setting up your Jupyter notebook environment to work with PySpark. 
+
 Pre-requisite:
-- Jupyter notebook
-- Apache Spark cluster
+  - Jupyter notebook
+  - Apache Spark cluster
 
 
 ```bash

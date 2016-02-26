@@ -88,3 +88,8 @@ Enjoy using PySpark with Jupyter notebook:
 ```bash
 ipython notebook
 ```
+
+
+
+
+PS: maybe I will add more explanations to the instructions above, if there is a need to.

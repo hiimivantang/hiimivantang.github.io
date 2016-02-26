@@ -31,6 +31,7 @@ c.NotebookApp.port = 1337 # or whatever you want; be aware of conflicts
 
 
 insert the following into ~/.ipython/kernels/pyspark/kernel.json
+
 ```json
 {
  "display_name": "pySpark (Spark 1.5.0)",
@@ -48,6 +49,7 @@ insert the following into ~/.ipython/kernels/pyspark/kernel.json
 
 
 insert the following into ~/.ipython/profile_pyspark/startup/00-pyspark-setup.py
+
 ```python
 import os
 import sys

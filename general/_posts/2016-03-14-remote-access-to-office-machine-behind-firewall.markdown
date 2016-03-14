@@ -1,3 +1,9 @@
+---
+layout: post
+title: "How-to: Remote Access To Office Machine Behind Firewall"
+tags: autossh firewall 
+---
+
 You want to ssh your office machine/laptop/workstation.
 
 But the machine is behind the company's firewall and you have no admin rights to the router.

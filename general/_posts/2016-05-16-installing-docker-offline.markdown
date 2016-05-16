@@ -34,6 +34,26 @@ Make sure you have cgroups-list installed. if not, You can find the cgroup-lite 
 
 Copy the Docker Engine binary and cgroup-lite package to your machine without internet access
 
+extract the contents of the Docker archive:
+```bash
+tar -xvzf docker-latest.tgz
+
+```
+
+Install the binaries extracted to /usr/bin:
+```bash
+mv docker/* /usr/bin/
+```
+
+If necessary, install the cgroup-lite package:
+```bash
+dpkg -i cgroup-lite_*.deb
+```
+
+### Setting up upstart script for Docker
+
+It's better to set up
+
 
 
 [1]: http://packages.ubuntu.com/trusty/cgroup-lite

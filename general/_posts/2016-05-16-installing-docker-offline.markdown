@@ -52,9 +52,10 @@ dpkg -i cgroup-lite_*.deb
 
 ### Setting up upstart script for Docker
 
-It's better to set up
+Nobody wants to manually start a service whenever your machine boots. This is why [upstart][2] exists. Download bo
+
 
 
 
 [1]: http://packages.ubuntu.com/trusty/cgroup-lite
-
+[2]: http://upstart.ubuntu.com/

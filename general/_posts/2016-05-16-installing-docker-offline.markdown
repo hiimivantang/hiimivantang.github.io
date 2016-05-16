@@ -2,7 +2,7 @@
 layout: post
 title:  "Installing Docker engine offline"
 date:   2016-05-16 14:41
-tags: docker, ubuntu
+tags: docker ubuntu
 ---
 
 This is a guide on how to install Docker on a Ubuntu machine (64bit) without internet access.

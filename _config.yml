@@ -1,7 +1,7 @@
 title: Eat, code, feed (my babies), sleep and repeat  
 description: Ivan Tang has deep interest in coding and data science. He loves technology, his wife and babies.
 author: Ivan Tang
-github: https://github.com/hiimivantnag
+github: https://github.com/hiimivantang
 about: I am a consultant who does technical work in a government agency in Singapore.
 urls:
     - text: About Me
@@ -16,3 +16,4 @@ paginate: 20
 per_page: 20
 paginate_path: "/page:num/"
 markdown: kramdown
+google_analytics: 'UA-73797939-1'

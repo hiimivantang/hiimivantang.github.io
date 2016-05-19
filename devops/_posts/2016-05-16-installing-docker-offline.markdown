@@ -195,6 +195,18 @@ sudo service upstart-docker start
 ```
 
 
+
+### Bonus: How to install docker-compose
+
+
+```bash
+#log in as root
+sudo -i
+# download docker-compose binary and install on /usr/local/bin or anywhere in the PATH environment variable
+curl -L https://github.com/docker/compose/releases/download/1.7.1/docker-compose-`uname -s`-`uname -m` > /usr/local/bin/docker-compose
+chmod +x /usr/local/bin/docker-compose
+```
+
 [1]: http://packages.ubuntu.com/trusty/cgroup-lite
 [2]: http://upstart.ubuntu.com/
 [3]: https://raw.githubusercontent.com/docker/docker/master/contrib/init/upstart/docker.conf

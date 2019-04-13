@@ -2,6 +2,7 @@
 layout: post
 title:  "Purpose of the blog"
 date:   2016-01-10 10:03
+published: false
 tags:   firstpost general
 ---
 

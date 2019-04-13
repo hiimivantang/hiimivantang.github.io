@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I am a consultant who does technical work in a government agency in Singapore.
+Data Scientist @ SWF
 
 email: hiimivantang[at]gmail.com

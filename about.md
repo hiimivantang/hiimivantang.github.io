@@ -21,3 +21,5 @@ Early in my career, I gained valuable experience as a Software Engineer at ST El
 I hold the following certifications: HashiCorp Certified: Terraform Associate (002), Confluent Certified Administrator, Confluent Certified Developer, and Cloudera Certified Developer for Apache Hadoop.
 
 One of my favorite activities is spending time with my family, particularly embarking on unplanned excursions/trips together. Additionally, I enjoy spending entire Sunday afternoons playing Minecraft Dungeons with my three sons. Lastly, I love to workout and I spend more than 3 days per week in the gym.
+
+You can contact me via my mobile number +6596225140. Alternatively, you can email me at hiimivantang@gmail.com.
